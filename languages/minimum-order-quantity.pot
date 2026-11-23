@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LeanCart Minimum Order Quantity\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Default minimum"
+msgstr ""
+
+msgid "E.g.: You can order at least %d units."
+msgstr ""
+
+msgid "Example site:"
+msgstr ""
+
+msgid "Minimum order quantity"
+msgstr ""
+
+msgid "Minimum order: %d units"
+msgstr ""
+
+msgid "Settings"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "This plugin requires WooCommerce to be active."
+msgstr ""
+
+msgid "Used if the product has no custom value."
+msgstr ""
+
+msgid "Warning message"
+msgstr ""
+
+msgid "WooCommerce Settings"
+msgstr ""
+
+msgid "You are not allowed to access this page."
+msgstr ""
+
+msgid "You can order at least %d units."
+msgstr ""
